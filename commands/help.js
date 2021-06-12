@@ -19,6 +19,5 @@ $description[> Modération
 
 > Other
 ・report + message
-・premium
 ・dev-help]`
 }
