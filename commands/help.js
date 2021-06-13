@@ -1,23 +1,24 @@
 module.exports = {
     name: "help",
-    code: `
-$title<a:staff:826936489123381298> Xipho help <a:staff:826936489123381298>]
-$description[> Modération
-**Le préfix du bot est** \`%\`
+    code: `$title[<a:acrown:836976212571717662> **help** <a:acrown:836976212571717662>]
+$description[**Mon prefix sur le serveur est : P.** 
 
-> Modération:
-・Ban + id ou mention
-・Kick + id ou mention
-・Nuke
-・clear + nombre de message
+> Modération <:BadgeDiscordCertifiedModerator:849371017733865532>
 
-> Fun
-・kiss + mention
-・hug + mention
-・userinfo (comming soon)
-・ping
+\`kick, ban, clear, nuke, leave\`
 
-> Other
-・report + message
-・dev-help]`
+> Fun <a:afriend:849371395300392961>
+
+\`gen-nitro, hug, kiss, infobot, badges, add-bot, avatar, createWebhook, invite, ping, webhook\`
+
+> new <a:agestion:849371504360816640>
+
+\`info-maj\`
+
+> configuration <:BadgeDiscordStaff:849371165574430801>
+
+> Other <:bughunter:849371240950661122>
+
+\`bêta-testeurs, report, dev-help\`
+] $color[#f00707]`
 }
