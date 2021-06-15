@@ -5,7 +5,7 @@ $description[**Mon prefix sur le serveur est : **
 
 > Modération <:BadgeDiscordCertifiedModerator:849371017733865532>
 
-\`kick, ban, clear, nuke, leave\`
+\`kick, ban, clear, nuke, leave, CreateChannel\`
 
 > Fun <a:afriend:849371395300392961>
 
