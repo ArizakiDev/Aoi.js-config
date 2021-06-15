@@ -1,6 +1,6 @@
 module.exports = {
     name: "help",
-    code: `$title[<a:acrown:836976212571717662> **help** <a:acrown:836976212571717662>]
+    code: `$title[<a:aacrown:854417345962704936> **help** <a:aacrown:854417345962704936>]
 $description[**Mon prefix sur le serveur est : P.** 
 
 > Modération <:BadgeDiscordCertifiedModerator:849371017733865532>
