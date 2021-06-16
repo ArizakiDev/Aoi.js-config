@@ -20,5 +20,5 @@ $description[**Mon prefix sur le serveur est : **
 > Other <:bughunter:849371240950661122>
 
 \`report, dev-help\`
-] $color[#f00707]`
+] $color[#f00707] $footer[V1.3]`
 }
