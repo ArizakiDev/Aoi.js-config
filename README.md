@@ -1,2 +1,2 @@
-# Proteect-nightmare
-création de bot personnalisé
+# Aoi.js-config
+Aoi.js v4.6 simples config
